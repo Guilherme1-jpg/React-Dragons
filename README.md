@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Sobre
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+o React-deezer trata-se de uma aplicação WEB, a qual é possivel cadastrar, ler, modificar e exluir um cadasttro de dragão
 
-## Available Scripts
+# Estrutura inicial do projeto
 
-In the project directory, you can run:
+Em primeira view é apresentada a tela de login, após o login, segue-se a tela de home onde é possivel utilizar as ferramentas de CRUD.
 
-### `npm start`
+<br>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tecnologias Utilizadas
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm test`
+- ReactJs<br>
+- react-dom
+- react-icons
+- react-redux
+- react-router-dom
+- material-ui
+- axios
+- styled-components
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Ferramentas auxiliares de design
 
-### `npm run build`
+[Coolor.co](https://coolors.co/)
+[TypeScale](https://type-scale.com/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# **Pré-requisitos**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- ter instalado em sua maquina o nodeJs
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. # Como executar:
+   clone o repositorio
+2. # Após clonar...
+   entre na pasta raiz do projeto e execute um npm install ou yarn install, logo em seguida para ver o projeto rodando digite npm start
 
-### `npm run eject`
+# Lidando com Cors
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+A aplicaçao não possui problemas relacionados a cors, caso ocorra informe ao Dev.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Observações sobre os hooks (Estrutura)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+O projeto esta em sua fase inicial, assim, sera passado o modo estrutural dos hooks para o projeto
