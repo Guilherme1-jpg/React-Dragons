@@ -1,6 +1,6 @@
 # Sobre
 
-o React-deezer trata-se de uma aplicação WEB, a qual é possivel cadastrar, ler, modificar e excluir um cadastro de dragão
+o React-dragons trata-se de uma aplicação WEB, a qual é possivel cadastrar, ler, modificar e excluir um cadastro de dragão
 
 # Estrutura inicial do projeto
 
