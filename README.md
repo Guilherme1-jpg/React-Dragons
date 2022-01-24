@@ -39,6 +39,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 A aplicaçao não possui problemas relacionados a cors, caso ocorra informe ao Dev.
 
-# Observações sobre os hooks (Estrutura)
 
-O projeto esta em sua fase inicial, assim, sera passado o modo estrutural dos hooks para o projeto
